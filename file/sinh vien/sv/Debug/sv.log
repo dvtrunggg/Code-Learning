@@ -1,0 +1,6 @@
+﻿  sv.cpp
+D:\code\C++\file\sinh vien\sv\sv.cpp(69,20): warning C4018: '<': signed/unsigned mismatch
+D:\code\C++\file\sinh vien\sv\sv.cpp(75,21): warning C4018: '<': signed/unsigned mismatch
+D:\code\C++\file\sinh vien\sv\sv.cpp(86,20): warning C4018: '<': signed/unsigned mismatch
+D:\code\C++\file\sinh vien\sv\sv.cpp(93,22): warning C4018: '<': signed/unsigned mismatch
+  sv.vcxproj -> D:\code\C++\file\sinh vien\sv\Debug\sv.exe

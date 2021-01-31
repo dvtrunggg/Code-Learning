@@ -1,0 +1,10 @@
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\bin\Debug\Bai25.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\bin\Debug\Bai25.exe
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\bin\Debug\Bai25.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\obj\Debug\Bai25.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\obj\Debug\Bai25.Form1.resources
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\obj\Debug\Bai25.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\obj\Debug\Bai25.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\obj\Debug\Bai25.exe
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\obj\Debug\Bai25.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai25\Bai25\obj\Debug\Bai25.Form2.resources

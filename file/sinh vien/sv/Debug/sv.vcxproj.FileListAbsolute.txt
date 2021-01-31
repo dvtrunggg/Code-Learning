@@ -1,0 +1,2 @@
+D:\code\C++\file\sinh vien\sv\Debug\sv.exe
+D:\code\C++\file\sinh vien\sv\Debug\sv.pdb

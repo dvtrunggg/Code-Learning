@@ -1,0 +1,10 @@
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\bin\Debug\Bai30.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\bin\Debug\Bai30.exe
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\bin\Debug\Bai30.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\obj\Debug\Bai30.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\obj\Debug\Bai30.Form1.resources
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\obj\Debug\Bai30.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\obj\Debug\Bai30.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\obj\Debug\Bai30.exe
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\obj\Debug\Bai30.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai30\Bai30\obj\Debug\Bai30.frmSinhVien.resources

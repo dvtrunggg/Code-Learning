@@ -1,0 +1,9 @@
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\bin\Debug\Bai27.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\bin\Debug\Bai27.exe
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\bin\Debug\Bai27.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.exe
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai27\Bai27\obj\Debug\Bai27.frmMain.resources

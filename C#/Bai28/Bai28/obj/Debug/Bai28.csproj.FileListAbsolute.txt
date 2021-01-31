@@ -1,0 +1,10 @@
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\bin\Debug\Bai28.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\bin\Debug\Bai28.exe
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\bin\Debug\Bai28.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\obj\Debug\Bai28.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\obj\Debug\Bai28.Form1.resources
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\obj\Debug\Bai28.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\obj\Debug\Bai28.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\obj\Debug\Bai28.exe
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\obj\Debug\Bai28.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai28\Bai28\obj\Debug\Bai28.frmLogin.resources

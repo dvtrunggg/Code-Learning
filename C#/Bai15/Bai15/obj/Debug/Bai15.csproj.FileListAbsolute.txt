@@ -1,0 +1,6 @@
+E:\ThanhTD.03 V1\Sourecode\Bai15\Bai15\bin\Debug\Bai15.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai15\Bai15\bin\Debug\Bai15.exe
+E:\ThanhTD.03 V1\Sourecode\Bai15\Bai15\bin\Debug\Bai15.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai15\Bai15\obj\Debug\Bai15.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai15\Bai15\obj\Debug\Bai15.exe
+E:\ThanhTD.03 V1\Sourecode\Bai15\Bai15\obj\Debug\Bai15.pdb

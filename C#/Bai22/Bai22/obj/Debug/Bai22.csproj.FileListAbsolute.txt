@@ -1,0 +1,9 @@
+E:\ThanhTD.03 V1\Sourecode\Bai22\Bai22\bin\Debug\Bai22.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai22\Bai22\bin\Debug\Bai22.exe
+E:\ThanhTD.03 V1\Sourecode\Bai22\Bai22\bin\Debug\Bai22.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai22\Bai22\obj\Debug\Bai22.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai22\Bai22\obj\Debug\Bai22.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai22\Bai22\obj\Debug\Bai22.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai22\Bai22\obj\Debug\Bai22.exe
+E:\ThanhTD.03 V1\Sourecode\Bai22\Bai22\obj\Debug\Bai22.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai22\Bai22\obj\Debug\Bai22.frmMain.resources

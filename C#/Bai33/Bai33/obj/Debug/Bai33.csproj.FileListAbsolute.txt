@@ -1,0 +1,10 @@
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\bin\Debug\Bai33.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\bin\Debug\Bai33.exe
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\bin\Debug\Bai33.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\obj\Debug\Bai33.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\obj\Debug\Bai33.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\obj\Debug\Bai33.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\obj\Debug\Bai33.exe
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\obj\Debug\Bai33.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\obj\Debug\Bai33.frmDanhMuc.resources
+E:\ThanhTD.03 V1\Sourecode\Bai33\Bai33\obj\Debug\Bai33.frmSanPham.resources

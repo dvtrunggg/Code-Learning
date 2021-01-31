@@ -1,0 +1,12 @@
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\bin\Debug\Bai23.exe.config
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\bin\Debug\Bai23.exe
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\bin\Debug\Bai23.pdb
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\bin\Debug\DevComponents.DotNetBar2.dll
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\bin\Debug\DevComponents.DotNetBar2.xml
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\obj\Debug\Bai23.csprojResolveAssemblyReference.cache
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\obj\Debug\Bai23.Form1.resources
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\obj\Debug\Bai23.frmHocTaborder.resources
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\obj\Debug\Bai23.Properties.Resources.resources
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\obj\Debug\Bai23.csproj.GenerateResource.Cache
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\obj\Debug\Bai23.exe
+E:\ThanhTD.03 V1\Sourecode\Bai23\Bai23\obj\Debug\Bai23.pdb
